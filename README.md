@@ -1,1 +1,1 @@
-set language to enligsh too
+set language to english too
